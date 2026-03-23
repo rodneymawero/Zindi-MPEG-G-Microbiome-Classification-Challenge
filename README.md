@@ -26,10 +26,15 @@ metagenomic data. -16 s rna Gene sequence profile encoded in MPEG-G format. 16 S
 We used a XGBOOST Classifier. The whole project can be found here
 
 
-https://www.kaggle.com/code/aaaml007/cntr-mpeg-g-microbiome-classification-challenge?scriptVersionId=251171633 ** - VERSION 45** is our best model.
+https://www.kaggle.com/code/aaaml007/cntr-mpeg-g-microbiome-classification-challenge?scriptVersionId=251171633 **- VERSION 45** is our best model.
 
 
 Great thanks to MuhammadQasimShabbeer who uploaded the data to Kaggle. We built upon his starter Notebook.
 
-The feature extraction from the genomic data was informed mostly by the Rosalind Project. It is a great resource for bioinformatics. https://rosalind.info/problems/list-view/
+The feature extraction from the genomic data was informed mostly by the Rosalind Platform, named after **Rosalind Franklin** https://www.britannica.com/biography/Rosalind-Franklin 
 
+who contributed in understanding the molecular structure of DNA. It is a great resource for bioinformatics. https://rosalind.info/problems/list-view/
+
+A portrait of Rosalind Franklin
+
+![Rosalind-Franklin](https://github.com/user-attachments/assets/2f6d9b5d-d8c2-4745-8cac-f7e351510b57)
