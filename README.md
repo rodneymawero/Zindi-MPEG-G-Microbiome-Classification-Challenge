@@ -3,7 +3,7 @@
 
 Team members:
 
-**Kodjo Josué AYITEY - Team Leader**
+**Kodjo Josué AYITEY**
 
 **Rodney G. Mawero**
 
