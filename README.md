@@ -23,7 +23,7 @@ The objective of this challenge is to use machine learning to predict where in t
 
 metagenomic data. -16 s rna Gene sequence profile encoded in MPEG-G format. 16 S RNA Gene sequences can be used to identify which bacteria / archaea species are in a sample.
 
-We used a **XGBOOST** Classifier. The whole project can be found here
+We used a **XGBoost** - **eXtreme Gradient Boosting** Classifier. The whole project can be found here
 
 
 https://www.kaggle.com/code/aaaml007/cntr-mpeg-g-microbiome-classification-challenge?scriptVersionId=251171633 **- VERSION 45** is our best model.
