@@ -3,9 +3,9 @@
 
 Team members:
 
-**Kodjo Josué AYITEY** TG U+1F1F9 U+1F1EC
+**Kodjo Josué AYITEY** 🇹🇬
 
-**Rodney G. Mawero**   KEN \U0001F1F0\U0001F1EA
+**Rodney G. Mawero**   🇰🇪
 
 **Genjutsu**
 
