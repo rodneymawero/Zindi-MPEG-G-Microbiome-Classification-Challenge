@@ -3,9 +3,9 @@
 
 Team members:
 
-**Kodjo Josué AYITEY** 🇹🇬
+**Kodjo Josué AYITEY**   🇹🇬
 
-**Rodney G. Mawero**   🇰🇪
+**Rodney G. Mawero**     🇰🇪
 
 **Genjutsu**
 
