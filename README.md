@@ -31,7 +31,7 @@ https://www.kaggle.com/code/aaaml007/cntr-mpeg-g-microbiome-classification-chall
 
 Great thanks to **MuhammadQasimShabbeer** who uploaded the data to Kaggle. We built upon his starter Notebook.
 
-The feature extraction from the genomic data was informed mostly by the Rosalind Platform, named after **Rosalind Franklin** https://www.britannica.com/biography/Rosalind-Franklin 
+The feature extraction from the genomic data was informed mostly by the *Rosalind Platform*, named after **Rosalind Franklin** https://www.britannica.com/biography/Rosalind-Franklin 
 
 who contributed in understanding the molecular structure of DNA, obtaining the crucial X-ray diffraction images of DNA—particularly the famous **"Photo 51"** in May 1952—which provided the key evidence that **DNA exists as a double helix**. It is a great resource for bioinformatics. https://rosalind.info/problems/list-view/
 
