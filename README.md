@@ -33,8 +33,11 @@ Great thanks to **MuhammadQasimShabbeer** who uploaded the data to Kaggle. We bu
 
 The feature extraction from the genomic data was informed mostly by the Rosalind Platform, named after **Rosalind Franklin** https://www.britannica.com/biography/Rosalind-Franklin 
 
-who contributed in understanding the molecular structure of DNA. It is a great resource for bioinformatics. https://rosalind.info/problems/list-view/
+who contributed in understanding the molecular structure of DNA, obtaining the crucial X-ray diffraction images of DNA—particularly the famous **"Photo 51"** in May 1952—which provided the key evidence that **DNA exists as a double helix**. It is a great resource for bioinformatics. https://rosalind.info/problems/list-view/
 
 A portrait of Rosalind Franklin
 
-![Rosalind-Franklin](https://github.com/user-attachments/assets/2f6d9b5d-d8c2-4745-8cac-f7e351510b57)
+![Rosalind-Franklin-colorised](https://github.com/user-attachments/assets/bb9dd983-b60a-4cc3-8018-a9dfd22c06bd)
+
+
+
